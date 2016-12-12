@@ -1,7 +1,0 @@
-<application>
-  <component name="NodeJsLocalInterpreters">
-    <local-interpreter path="/usr/local/bin/node" />
-    <local-interpreter path="/usr/local/Cellar/node/7.2.0/bin/node" />
-  </component>
-  <component name="RubyCucumber" number="7" string0="aruba" string1="calabash-android" string2="calabash-cucumber" string3="cucumber-api-steps" string4="factory_girl" string5="json_spec" string6="rails3-jquery-autocomplete" />
-</application>
